@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.18.1",
-    "moment": "^2.23.0",
+    "moment": "^2.29.4",
     "tiptap": "^1.24.1",
     "tiptap-extensions": "^1.26.1",
     "vue": "^2.5.2",
